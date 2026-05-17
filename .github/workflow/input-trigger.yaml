@@ -1,5 +1,5 @@
 
-name: Trigger work flow with various input
+name: Input test
 on:
   workflow_dispatch
     inputs:
